@@ -10,7 +10,7 @@ A full-stack coffee shop application built using the MERN stack (MongoDB, Expres
 - Responsive design for mobile and desktop
 
 ## Technologies Used
-- **Frontend:** React, Axios, Bootstrap
+- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
